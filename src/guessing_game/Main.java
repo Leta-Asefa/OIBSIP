@@ -1,4 +1,4 @@
-package GuessingGame;
+package guessing_game;
 
 
 public class Main {

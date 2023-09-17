@@ -1,4 +1,4 @@
-package GuessingGame;
+package guessing_game;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
